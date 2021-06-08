@@ -15,7 +15,7 @@ NameOfTheProject FrontEnd with React
 
 * Brayan Prieto 
 
-
+* Luis Sigala 
 
 
 
