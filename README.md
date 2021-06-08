@@ -6,3 +6,15 @@ NameOfTheProject FrontEnd with React
 * Saúl Bravo
 
 * David Trejo
+
+
+
+
+
+
+
+
+
+
+
+* Brayan Decanini
