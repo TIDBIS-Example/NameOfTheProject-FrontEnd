@@ -7,7 +7,7 @@ NameOfTheProject FrontEnd with React
 
 * David Trejo
 
-
+* Leonel Villegas
 
 
 
