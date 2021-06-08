@@ -9,18 +9,18 @@ NameOfTheProject FrontEnd with React
 
 * Leonel Villegas
 
-
-* Sofía González
-
-
 * Brayan Prieto 
 
-* Luis Sigala 
+* Brayan Decanini
 
+* Isaac Enriquez
 
+* Saúl Bravo
 
+* David Trejo
 
+* Leonel Villegas
 
-
+* Brayan Prieto 
 
 * Brayan Decanini
