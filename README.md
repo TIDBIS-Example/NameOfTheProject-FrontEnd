@@ -5,4 +5,4 @@ NameOfTheProject FrontEnd with React
 
 * Saúl Bravo
 
-*David Trejo
+* Jesus Lopez
