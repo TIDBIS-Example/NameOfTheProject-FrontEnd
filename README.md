@@ -10,7 +10,7 @@ NameOfTheProject FrontEnd with React
 * Leonel Villegas
 
 
-
+* Sofía González
 
 
 * Brayan Prieto 
