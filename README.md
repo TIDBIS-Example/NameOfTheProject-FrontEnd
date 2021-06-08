@@ -2,3 +2,4 @@
 NameOfTheProject FrontEnd with React
 
 * Isaac Enriquez
+* Sofia González
