@@ -9,7 +9,13 @@ NameOfTheProject FrontEnd with React
 
 * Leonel Villegas
 
-* Obed García
+
+
+
+
+* Brayan Prieto 
+
+
 
 
 
