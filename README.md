@@ -2,4 +2,5 @@
 NameOfTheProject FrontEnd with React
 
 * Isaac Enriquez
-* Fernando Tarango
+* Sofia González
+* Brayan Prieto
