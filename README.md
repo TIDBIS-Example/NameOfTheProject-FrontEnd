@@ -5,6 +5,4 @@ NameOfTheProject FrontEnd with React
 
 * Saúl Bravo
 
-* Brayan Prieto
-
-*David Trejo
+* David Trejo
